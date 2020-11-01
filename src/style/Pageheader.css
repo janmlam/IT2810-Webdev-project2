@@ -1,0 +1,39 @@
+/*Styling for headeren*/
+.page-header {
+  position: relative;
+  z-index: 1;
+  height: 15vh;
+  max-height: 150px;
+  width: 100%;
+  -webkit-box-shadow: 0px 3px 14px -5px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 3px 14px -5px rgba(0,0,0,0.75);
+  box-shadow: 0px 3px 14px -5px rgba(0,0,0,0.75);
+}
+/*Styling for overskriften*/
+.page-header h1{
+  margin: auto;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
+  width: 100vw;
+  height: 50%;
+}
+/*Styling av kontrollpanelet med årstidsymbolene*/
+.mood-controller{
+  top: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-width: 100%;
+  right: 0;
+  height: 50%;
+  position: relative;
+  top:0;
+}
+.mood-controller img{
+  width: 15%;
+  height: 80%;
+}
