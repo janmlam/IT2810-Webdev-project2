@@ -1,6 +1,6 @@
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.idi.ntnu.no/#https://gitlab.stud.idi.ntnu.no/it2810-h20/team-55/prosjekt-2) 
+
 # IT2810 - Team 55 -  Prosjekt 2
-Dette repoet er laget ved hjelp av node.js, npm, React, og det er lagt opp for bruk av Gitpod ved å følge merkelappen øverst. 
+Dette repoet er laget ved hjelp av node.js, npm, React.
 
 ## For å kjøre applikasjonen lokalt
 Klon repoet, innstaller node.js, og npm.
